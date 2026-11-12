@@ -33,3 +33,9 @@ El Sistema de Gestión de Ayudantías contempla el registro de sesiones, el cont
 El prototipo muestra las pantallas y los flujos de navegación según el rol de cada usuario. Incluye el registro de ayudantías, el control de la asistencia estudiantil y la consulta de reportes.
 
 [Ver el prototipo en Figma](https://www.figma.com/design/ZLIlnhAnQ6MOywqdRJXCu3/flujo?node-id=0-1&t=aVfZ2Hgux3ckb618-1)
+
+## Planificación del proyecto con red AoA
+
+La red AoA (*Activity on Arrow*) representa las actividades del proyecto mediante flechas. El diagrama muestra sus duraciones y dependencias, lo que permite identificar la ruta crítica y estimar la duración total del proyecto.
+
+![Diagrama de red AoA del Sistema de Gestión de Ayudantías](Ingenieria%20de%20Software%201/Primer%20Parcial/Diagrama%20AoA/Diagrama-AoA.png)
