@@ -39,3 +39,17 @@ El prototipo muestra las pantallas y los flujos de navegación según el rol de 
 La red AoA (*Activity on Arrow*) representa las actividades del proyecto mediante flechas. El diagrama muestra sus duraciones y dependencias, lo que permite identificar la ruta crítica y estimar la duración total del proyecto.
 
 ![Diagrama de red AoA del Sistema de Gestión de Ayudantías](Ingenieria%20de%20Software%201/Primer%20Parcial/Diagrama%20AoA/Diagrama-AoA.png)
+
+## Planificación de sprints
+
+El equipo organizó el trabajo del proyecto en sprints. Para cada sprint se definió un objetivo y se agruparon las tareas necesarias para alcanzarlo.
+
+## Integrantes del grupo 5
+
+| Integrante | Correo institucional |
+| --- | --- |
+| Cuenca Saez Jacqueline Anahi | jacuenca@espol.edu.ec |
+| Guerrero Burgos Bryan Valentino | bryguerr@espol.edu.ec |
+| Guevara Cruz Nicole Melanie | nicgcruz@espol.edu.ec |
+| Quimi de la O Valeria Doris | vdquimi@espol.edu.ec |
+| Rosado Chamba Franklin Victor | frrosado@espol.edu.ec |
