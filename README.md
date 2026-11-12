@@ -18,3 +18,18 @@ El Sistema de Gestión de Ayudantías contempla el registro de sesiones, el cont
 | Profesor | Consulta la información de las ayudantías y la asistencia de sus paralelos. |
 | Administrador | Consulta la información de las ayudantías dentro del ámbito que tiene asignado. |
 | Súper administrador | Asigna administradores y define las materias y los períodos académicos a los que tendrán acceso. |
+
+## Herramientas y prototipo
+
+| Herramienta | Uso en el proyecto |
+| --- | --- |
+| Figma | Diseñar las pantallas y los flujos de navegación del sistema. |
+| GitHub | Documentar el proyecto y registrar los aportes de cada integrante. |
+| WhatsApp | Coordinar el trabajo y realizar las reuniones internas del equipo. |
+| Microsoft Teams | Mantener la comunicación y realizar las reuniones con el cliente. |
+
+### Prototipo en Figma
+
+El prototipo muestra las pantallas y los flujos de navegación según el rol de cada usuario. Incluye el registro de ayudantías, el control de la asistencia estudiantil y la consulta de reportes.
+
+[Ver el prototipo en Figma](https://www.figma.com/design/ZLIlnhAnQ6MOywqdRJXCu3/flujo?node-id=0-1&t=aVfZ2Hgux3ckb618-1)
