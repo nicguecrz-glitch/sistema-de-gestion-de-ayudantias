@@ -16,8 +16,8 @@ El Sistema de Gestión de Ayudantías contempla el registro de sesiones, el cont
 | Estudiante | Registra su asistencia a las sesiones de ayudantía. |
 | Ayudante | Registra las sesiones que imparte y revisa la asistencia de los estudiantes. |
 | Profesor | Consulta la información de las ayudantías y la asistencia de sus paralelos. |
-| Administrador | Consulta la información de las ayudantías dentro del ámbito que tiene asignado. |
-| Súper administrador | Asigna administradores y define las materias y los períodos académicos a los que tendrán acceso. |
+| Coordinador | Gestiona los registros de estudiantes, profesores y ayudantes, organiza los horarios de ayudantía y consulta los reportes de asistencia de su materia. |
+| Súper administrador | Registra, consulta y actualiza la información de los coordinadores de materia y gestiona los períodos académicos ordinarios (PAO). |
 
 ## Herramientas y prototipo
 
